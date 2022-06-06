@@ -1,0 +1,7 @@
+The Goal to Complete the project:
+
+    Gather Data
+    Assessing Data
+    Clean Data
+    Vizualize Data
+    Answers the questions
